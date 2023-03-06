@@ -1,0 +1,407 @@
+Millas_Por_Galon;Cilindros;Pais_Origen;Peso_En_Libras;Desplazamiento;Aceleracion;Nombre;Anyo;Caballo_De_Fuerza
+18;8;USA;3504;307;12;chevrolet chevelle malibu;1/01/1970;130
+15;8;USA;3693;350;11.5;buick skylark 320;1/01/1970;165
+18;8;USA;3436;318;11;plymouth satellite;1/01/1970;150
+16;8;USA;3433;304;12;amc rebel sst;1/01/1970;150
+17;8;USA;3449;302;10.5;ford torino;1/01/1970;140
+15;8;USA;4341;429;10;ford galaxie 500;1/01/1970;198
+14;8;USA;4354;454;9;chevrolet impala;1/01/1970;220
+14;8;USA;4312;440;8.5;plymouth fury iii;1/01/1970;215
+14;8;USA;4425;455;10;pontiac catalina;1/01/1970;225
+15;8;USA;3850;390;8.5;amc ambassador dpl;1/01/1970;190
+NA;4;Europe;3090;133;17.5;citroen ds-21 pallas;1/01/1970;115
+NA;8;USA;4142;350;11.5;chevrolet chevelle concours (sw);1/01/1970;165
+NA;8;USA;4034;351;11;ford torino (sw);1/01/1970;153
+NA;8;USA;4166;383;10.5;plymouth satellite (sw);1/01/1970;175
+NA;8;USA;3850;360;11;amc rebel sst (sw);1/01/1970;175
+15;8;USA;3563;383;10;dodge challenger se;1/01/1970;170
+14;8;USA;3609;340;8;plymouth 'cuda 340;1/01/1970;160
+NA;8;USA;3353;302;8;ford mustang boss 302;1/01/1970;140
+15;8;USA;3761;400;9.5;chevrolet monte carlo;1/01/1970;150
+14;8;USA;3086;455;10;buick estate wagon (sw);1/01/1970;225
+24;4;Japan;2372;113;15;toyota corona mark ii;1/01/1970;95
+22;6;USA;2833;198;15.5;plymouth duster;1/01/1970;95
+18;6;USA;2774;199;15.5;amc hornet;1/01/1970;97
+21;6;USA;2587;200;16;ford maverick;1/01/1970;85
+27;4;Japan;2130;97;14.5;datsun pl510;1/01/1970;88
+26;4;Europe;1835;97;20.5;volkswagen 1131 deluxe sedan;1/01/1970;46
+25;4;Europe;2672;110;17.5;peugeot 504;1/01/1970;87
+24;4;Europe;2430;107;14.5;audi 100 ls;1/01/1970;90
+25;4;Europe;2375;104;17.5;saab 99e;1/01/1970;95
+26;4;Europe;2234;121;12.5;bmw 2002;1/01/1970;113
+21;6;USA;2648;199;15;amc gremlin;1/01/1970;90
+10;8;USA;4615;360;14;ford f250;1/01/1970;215
+10;8;USA;4376;307;15;chevy c20;1/01/1970;200
+11;8;USA;4382;318;13.5;dodge d200;1/01/1970;210
+9;8;USA;4732;304;18.5;hi 1200d;1/01/1970;193
+27;4;Japan;2130;97;14.5;datsun pl510;1/01/1971;88
+28;4;USA;2264;140;15.5;chevrolet vega 2300;1/01/1971;90
+25;4;Japan;2228;113;14;toyota corona;1/01/1971;95
+25;4;USA;2046;98;19;ford pinto;1/01/1971;NA
+NA;4;Europe;1978;97;20;volkswagen super beetle 117;1/01/1971;48
+19;6;USA;2634;232;13;amc gremlin;1/01/1971;100
+16;6;USA;3439;225;15.5;plymouth satellite custom;1/01/1971;105
+17;6;USA;3329;250;15.5;chevrolet chevelle malibu;1/01/1971;100
+19;6;USA;3302;250;15.5;ford torino 500;1/01/1971;88
+18;6;USA;3288;232;15.5;amc matador;1/01/1971;100
+14;8;USA;4209;350;12;chevrolet impala;1/01/1971;165
+14;8;USA;4464;400;11.5;pontiac catalina brougham;1/01/1971;175
+14;8;USA;4154;351;13.5;ford galaxie 500;1/01/1971;153
+14;8;USA;4096;318;13;plymouth fury iii;1/01/1971;150
+12;8;USA;4955;383;11.5;dodge monaco (sw);1/01/1971;180
+13;8;USA;4746;400;12;ford country squire (sw);1/01/1971;170
+13;8;USA;5140;400;12;pontiac safari (sw);1/01/1971;175
+18;6;USA;2962;258;13.5;amc hornet sportabout (sw);1/01/1971;110
+22;4;USA;2408;140;19;chevrolet vega (sw);1/01/1971;72
+19;6;USA;3282;250;15;pontiac firebird;1/01/1971;100
+18;6;USA;3139;250;14.5;ford mustang;1/01/1971;88
+23;4;USA;2220;122;14;mercury capri 2000;1/01/1971;86
+28;4;Europe;2123;116;14;opel 1900;1/01/1971;90
+30;4;Europe;2074;79;19.5;peugeot 304;1/01/1971;70
+30;4;Europe;2065;88;14.5;fiat 124b;1/01/1971;76
+31;4;Japan;1773;71;19;toyota corolla 1200;1/01/1971;65
+35;4;Japan;1613;72;18;datsun 1200;1/01/1971;69
+27;4;Europe;1834;97;19;volkswagen model 111;1/01/1971;60
+26;4;USA;1955;91;20.5;plymouth cricket;1/01/1971;70
+24;4;Japan;2278;113;15.5;toyota corona hardtop;1/01/1972;95
+25;4;USA;2126;97.5;17;dodge colt hardtop;1/01/1972;80
+23;4;Europe;2254;97;23.5;volkswagen type 3;1/01/1972;54
+20;4;USA;2408;140;19.5;chevrolet vega;1/01/1972;90
+21;4;USA;2226;122;16.5;ford pinto runabout;1/01/1972;86
+13;8;USA;4274;350;12;chevrolet impala;1/01/1972;165
+14;8;USA;4385;400;12;pontiac catalina;1/01/1972;175
+15;8;USA;4135;318;13.5;plymouth fury iii;1/01/1972;150
+14;8;USA;4129;351;13;ford galaxie 500;1/01/1972;153
+17;8;USA;3672;304;11.5;amc ambassador sst;1/01/1972;150
+11;8;USA;4633;429;11;mercury marquis;1/01/1972;208
+13;8;USA;4502;350;13.5;buick lesabre custom;1/01/1972;155
+12;8;USA;4456;350;13.5;oldsmobile delta 88 royale;1/01/1972;160
+13;8;USA;4422;400;12.5;chrysler newport royal;1/01/1972;190
+19;3;Japan;2330;70;13.5;mazda rx2 coupe;1/01/1972;97
+15;8;USA;3892;304;12.5;amc matador (sw);1/01/1972;150
+13;8;USA;4098;307;14;chevrolet chevelle concours (sw);1/01/1972;130
+13;8;USA;4294;302;16;ford gran torino (sw);1/01/1972;140
+14;8;USA;4077;318;14;plymouth satellite custom (sw);1/01/1972;150
+18;4;Europe;2933;121;14.5;volvo 145e (sw);1/01/1972;112
+22;4;Europe;2511;121;18;volkswagen 411 (sw);1/01/1972;76
+21;4;Europe;2979;120;19.5;peugeot 504 (sw);1/01/1972;87
+26;4;Europe;2189;96;18;renault 12 (sw);1/01/1972;69
+22;4;USA;2395;122;16;ford pinto (sw);1/01/1972;86
+28;4;Japan;2288;97;17;datsun 510 (sw);1/01/1972;92
+23;4;Japan;2506;120;14.5;toyouta corona mark ii (sw);1/01/1972;97
+28;4;USA;2164;98;15;dodge colt (sw);1/01/1972;80
+27;4;Japan;2100;97;16.5;toyota corolla 1600 (sw);1/01/1972;88
+13;8;USA;4100;350;13;buick century 350;1/01/1973;175
+14;8;USA;3672;304;11.5;amc matador;1/01/1973;150
+13;8;USA;3988;350;13;chevrolet malibu;1/01/1973;145
+14;8;USA;4042;302;14.5;ford gran torino;1/01/1973;137
+15;8;USA;3777;318;12.5;dodge coronet custom;1/01/1973;150
+12;8;USA;4952;429;11.5;mercury marquis brougham;1/01/1973;198
+13;8;USA;4464;400;12;chevrolet caprice classic;1/01/1973;150
+13;8;USA;4363;351;13;ford ltd;1/01/1973;158
+14;8;USA;4237;318;14.5;plymouth fury gran sedan;1/01/1973;150
+13;8;USA;4735;440;11;chrysler new yorker brougham;1/01/1973;215
+12;8;USA;4951;455;11;buick electra 225 custom;1/01/1973;225
+13;8;USA;3821;360;11;amc ambassador brougham;1/01/1973;175
+18;6;USA;3121;225;16.5;plymouth valiant;1/01/1973;105
+16;6;USA;3278;250;18;chevrolet nova custom;1/01/1973;100
+18;6;USA;2945;232;16;amc hornet;1/01/1973;100
+18;6;USA;3021;250;16.5;ford maverick;1/01/1973;88
+23;6;USA;2904;198;16;plymouth duster;1/01/1973;95
+26;4;Europe;1950;97;21;volkswagen super beetle;1/01/1973;46
+11;8;USA;4997;400;14;chevrolet impala;1/01/1973;150
+12;8;USA;4906;400;12.5;ford country;1/01/1973;167
+13;8;USA;4654;360;13;plymouth custom suburb;1/01/1973;170
+12;8;USA;4499;350;12.5;oldsmobile vista cruiser;1/01/1973;180
+18;6;USA;2789;232;15;amc gremlin;1/01/1973;100
+20;4;Japan;2279;97;19;toyota carina;1/01/1973;88
+21;4;USA;2401;140;19.5;chevrolet vega;1/01/1973;72
+22;4;Japan;2379;108;16.5;datsun 610;1/01/1973;94
+18;3;Japan;2124;70;13.5;maxda rx3;1/01/1973;90
+19;4;USA;2310;122;18.5;ford pinto;1/01/1973;85
+21;6;USA;2472;155;14;mercury capri v6;1/01/1973;107
+26;4;Europe;2265;98;15.5;fiat 124 sport coupe;1/01/1973;90
+15;8;USA;4082;350;13;chevrolet monte carlo s;1/01/1973;145
+16;8;USA;4278;400;9.5;pontiac grand prix;1/01/1973;230
+29;4;Europe;1867;68;19.5;fiat 128;1/01/1973;49
+24;4;Europe;2158;116;15.5;opel manta;1/01/1973;75
+20;4;Europe;2582;114;14;audi 100ls;1/01/1973;91
+19;4;Europe;2868;121;15.5;volvo 144ea;1/01/1973;112
+15;8;USA;3399;318;11;dodge dart custom;1/01/1973;150
+24;4;Europe;2660;121;14;saab 99le;1/01/1973;110
+20;6;Japan;2807;156;13.5;toyota mark ii;1/01/1973;122
+11;8;USA;3664;350;11;oldsmobile omega;1/01/1973;180
+20;6;USA;3102;198;16.5;plymouth duster;1/01/1974;95
+21;6;USA;2875;200;17;ford maverick;1/01/1974;NA
+19;6;USA;2901;232;16;amc hornet;1/01/1974;100
+15;6;USA;3336;250;17;chevrolet nova;1/01/1974;100
+31;4;Japan;1950;79;19;datsun b210;1/01/1974;67
+26;4;USA;2451;122;16.5;ford pinto;1/01/1974;80
+32;4;Japan;1836;71;21;toyota corolla 1200;1/01/1974;65
+25;4;USA;2542;140;17;chevrolet vega;1/01/1974;75
+16;6;USA;3781;250;17;chevrolet chevelle malibu classic;1/01/1974;100
+16;6;USA;3632;258;18;amc matador;1/01/1974;110
+18;6;USA;3613;225;16.5;plymouth satellite sebring;1/01/1974;105
+16;8;USA;4141;302;14;ford gran torino;1/01/1974;140
+13;8;USA;4699;350;14.5;buick century luxus (sw);1/01/1974;150
+14;8;USA;4457;318;13.5;dodge coronet custom (sw);1/01/1974;150
+14;8;USA;4638;302;16;ford gran torino (sw);1/01/1974;140
+14;8;USA;4257;304;15.5;amc matador (sw);1/01/1974;150
+29;4;Europe;2219;98;16.5;audi fox;1/01/1974;83
+26;4;Europe;1963;79;15.5;volkswagen dasher;1/01/1974;67
+26;4;Europe;2300;97;14.5;opel manta;1/01/1974;78
+31;4;Japan;1649;76;16.5;toyota corona;1/01/1974;52
+32;4;Japan;2003;83;19;datsun 710;1/01/1974;61
+28;4;USA;2125;90;14.5;dodge colt;1/01/1974;75
+24;4;Europe;2108;90;15.5;fiat 128;1/01/1974;75
+26;4;Europe;2246;116;14;fiat 124 tc;1/01/1974;75
+24;4;Japan;2489;120;15;honda civic;1/01/1974;97
+26;4;Japan;2391;108;15.5;subaru;1/01/1974;93
+31;4;Europe;2000;79;16;fiat x1.9;1/01/1974;67
+19;6;USA;3264;225;16;plymouth valiant custom;1/01/1975;95
+18;6;USA;3459;250;16;chevrolet nova;1/01/1975;105
+15;6;USA;3432;250;21;mercury monarch;1/01/1975;72
+15;6;USA;3158;250;19.5;ford maverick;1/01/1975;72
+16;8;USA;4668;400;11.5;pontiac catalina;1/01/1975;170
+15;8;USA;4440;350;14;chevrolet bel air;1/01/1975;145
+16;8;USA;4498;318;14.5;plymouth grand fury;1/01/1975;150
+14;8;USA;4657;351;13.5;ford ltd;1/01/1975;148
+17;6;USA;3907;231;21;buick century;1/01/1975;110
+16;6;USA;3897;250;18.5;chevroelt chevelle malibu;1/01/1975;105
+15;6;USA;3730;258;19;amc matador;1/01/1975;110
+18;6;USA;3785;225;19;plymouth fury;1/01/1975;95
+21;6;USA;3039;231;15;buick skyhawk;1/01/1975;110
+20;8;USA;3221;262;13.5;chevrolet monza 2+2;1/01/1975;110
+13;8;USA;3169;302;12;ford mustang ii;1/01/1975;129
+29;4;Japan;2171;97;16;toyota corolla;1/01/1975;75
+23;4;USA;2639;140;17;ford pinto;1/01/1975;83
+20;6;USA;2914;232;16;amc gremlin;1/01/1975;100
+23;4;USA;2592;140;18.5;pontiac astro;1/01/1975;78
+24;4;Japan;2702;134;13.5;toyota corona;1/01/1975;96
+25;4;Europe;2223;90;16.5;volkswagen dasher;1/01/1975;71
+24;4;Japan;2545;119;17;datsun 710;1/01/1975;97
+18;6;USA;2984;171;14.5;ford pinto;1/01/1975;97
+29;4;Europe;1937;90;14;volkswagen rabbit;1/01/1975;70
+19;6;USA;3211;232;17;amc pacer;1/01/1975;90
+23;4;Europe;2694;115;15;audi 100ls;1/01/1975;95
+23;4;Europe;2957;120;17;peugeot 504;1/01/1975;88
+22;4;Europe;2945;121;14.5;volvo 244dl;1/01/1975;98
+25;4;Europe;2671;121;13.5;saab 99le;1/01/1975;115
+33;4;Japan;1795;91;17.5;honda civic cvcc;1/01/1975;53
+28;4;Europe;2464;107;15.5;fiat 131;1/01/1976;86
+25;4;Europe;2220;116;16.9;opel 1900;1/01/1976;81
+25;4;USA;2572;140;14.9;capri ii;1/01/1976;92
+26;4;USA;2255;98;17.7;dodge colt;1/01/1976;79
+27;4;Europe;2202;101;15.3;renault 12tl;1/01/1976;83
+17.5;8;USA;4215;305;13;chevrolet chevelle malibu classic;1/01/1976;140
+16;8;USA;4190;318;13;dodge coronet brougham;1/01/1976;150
+15.5;8;USA;3962;304;13.9;amc matador;1/01/1976;120
+14.5;8;USA;4215;351;12.8;ford gran torino;1/01/1976;152
+22;6;USA;3233;225;15.4;plymouth valiant;1/01/1976;100
+22;6;USA;3353;250;14.5;chevrolet nova;1/01/1976;105
+24;6;USA;3012;200;17.6;ford maverick;1/01/1976;81
+22.5;6;USA;3085;232;17.6;amc hornet;1/01/1976;90
+29;4;USA;2035;85;22.2;chevrolet chevette;1/01/1976;52
+24.5;4;USA;2164;98;22.1;chevrolet woody;1/01/1976;60
+29;4;Europe;1937;90;14.2;vw rabbit;1/01/1976;70
+33;4;Japan;1795;91;17.4;honda civic;1/01/1976;53
+20;6;USA;3651;225;17.7;dodge aspen se;1/01/1976;100
+18;6;USA;3574;250;21;ford granada ghia;1/01/1976;78
+18.5;6;USA;3645;250;16.2;pontiac ventura sj;1/01/1976;110
+17.5;6;USA;3193;258;17.8;amc pacer d/l;1/01/1976;95
+29.5;4;Europe;1825;97;12.2;volkswagen rabbit;1/01/1976;71
+32;4;Japan;1990;85;17;datsun b-210;1/01/1976;70
+28;4;Japan;2155;97;16.4;toyota corolla;1/01/1976;75
+26.5;4;USA;2565;140;13.6;ford pinto;1/01/1976;72
+20;4;Europe;3150;130;15.7;volvo 245;1/01/1976;102
+13;8;USA;3940;318;13.2;plymouth volare premier v8;1/01/1976;150
+19;4;Europe;3270;120;21.9;peugeot 504;1/01/1976;88
+19;6;Japan;2930;156;15.5;toyota mark ii;1/01/1976;108
+16.5;6;Europe;3820;168;16.7;mercedes-benz 280s;1/01/1976;120
+16.5;8;USA;4380;350;12.1;cadillac seville;1/01/1976;180
+13;8;USA;4055;350;12;chevy c10;1/01/1976;145
+13;8;USA;3870;302;15;ford f108;1/01/1976;130
+13;8;USA;3755;318;14;dodge d100;1/01/1976;150
+31.5;4;Japan;2045;98;18.5;honda Accelerationord cvcc;1/01/1977;68
+30;4;USA;2155;111;14.8;buick opel isuzu deluxe;1/01/1977;80
+36;4;Europe;1825;79;18.6;renault 5 gtl;1/01/1977;58
+25.5;4;USA;2300;122;15.5;plymouth arrow gs;1/01/1977;96
+33.5;4;Japan;1945;85;16.8;datsun f-10 hatchback;1/01/1977;70
+17.5;8;USA;3880;305;12.5;chevrolet caprice classic;1/01/1977;145
+17;8;USA;4060;260;19;oldsmobile cutlass supreme;1/01/1977;110
+15.5;8;USA;4140;318;13.7;dodge monaco brougham;1/01/1977;145
+15;8;USA;4295;302;14.9;mercury cougar brougham;1/01/1977;130
+17.5;6;USA;3520;250;16.4;chevrolet concours;1/01/1977;110
+20.5;6;USA;3425;231;16.9;buick skylark;1/01/1977;105
+19;6;USA;3630;225;17.7;plymouth volare custom;1/01/1977;100
+18.5;6;USA;3525;250;19;ford granada;1/01/1977;98
+16;8;USA;4220;400;11.1;pontiac grand prix lj;1/01/1977;180
+15.5;8;USA;4165;350;11.4;chevrolet monte carlo landau;1/01/1977;170
+15.5;8;USA;4325;400;12.2;chrysler cordoba;1/01/1977;190
+16;8;USA;4335;351;14.5;ford thunderbird;1/01/1977;149
+29;4;Europe;1940;97;14.5;volkswagen rabbit custom;1/01/1977;78
+24.5;4;USA;2740;151;16;pontiac sunbird coupe;1/01/1977;88
+26;4;Japan;2265;97;18.2;toyota corolla liftback;1/01/1977;75
+25.5;4;USA;2755;140;15.8;ford mustang ii 2+2;1/01/1977;89
+30.5;4;USA;2051;98;17;chevrolet chevette;1/01/1977;63
+33.5;4;USA;2075;98;15.9;dodge colt m/m;1/01/1977;83
+30;4;Japan;1985;97;16.4;subaru dl;1/01/1977;67
+30.5;4;Europe;2190;97;14.1;volkswagen dasher;1/01/1977;78
+22;6;Japan;2815;146;14.5;datsun 810;1/01/1977;97
+21.5;4;Europe;2600;121;12.8;bmw 320i;1/01/1977;110
+21.5;3;Japan;2720;80;13.5;mazda rx-4;1/01/1977;110
+43.1;4;Europe;1985;90;21.5;volkswagen rabbit custom diesel;1/01/1978;48
+36.1;4;USA;1800;98;14.4;ford fiesta;1/01/1978;66
+32.8;4;Japan;1985;78;19.4;mazda glc deluxe;1/01/1978;52
+39.4;4;Japan;2070;85;18.6;datsun b210 gx;1/01/1978;70
+36.1;4;Japan;1800;91;16.4;honda civic cvcc;1/01/1978;60
+19.9;8;USA;3365;260;15.5;oldsmobile cutlass salon brougham;1/01/1978;110
+19.4;8;USA;3735;318;13.2;dodge diplomat;1/01/1978;140
+20.2;8;USA;3570;302;12.8;mercury monarch ghia;1/01/1978;139
+19.2;6;USA;3535;231;19.2;pontiac phoenix lj;1/01/1978;105
+20.5;6;USA;3155;200;18.2;chevrolet malibu;1/01/1978;95
+20.2;6;USA;2965;200;15.8;ford fairmont (auto);1/01/1978;85
+25.1;4;USA;2720;140;15.4;ford fairmont (man);1/01/1978;88
+20.5;6;USA;3430;225;17.2;plymouth volare;1/01/1978;100
+19.4;6;USA;3210;232;17.2;amc concord;1/01/1978;90
+20.6;6;USA;3380;231;15.8;buick century special;1/01/1978;105
+20.8;6;USA;3070;200;16.7;mercury zephyr;1/01/1978;85
+18.6;6;USA;3620;225;18.7;dodge aspen;1/01/1978;110
+18.1;6;USA;3410;258;15.1;amc concord d/l;1/01/1978;120
+19.2;8;USA;3425;305;13.2;chevrolet monte carlo landau;1/01/1978;145
+17.7;6;USA;3445;231;13.4;buick regal sport coupe (turbo);1/01/1978;165
+18.1;8;USA;3205;302;11.2;ford futura;1/01/1978;139
+17.5;8;USA;4080;318;13.7;dodge magnum xe;1/01/1978;140
+30;4;USA;2155;98;16.5;chevrolet chevette;1/01/1978;68
+27.5;4;Japan;2560;134;14.2;toyota corona;1/01/1978;95
+27.2;4;Japan;2300;119;14.7;datsun 510;1/01/1978;97
+30.9;4;USA;2230;105;14.5;dodge omni;1/01/1978;75
+21.1;4;Japan;2515;134;14.8;toyota celica gt liftback;1/01/1978;95
+23.2;4;USA;2745;156;16.7;plymouth sapporo;1/01/1978;105
+23.8;4;USA;2855;151;17.6;oldsmobile starfire sx;1/01/1978;85
+23.9;4;Japan;2405;119;14.9;datsun 200-sx;1/01/1978;97
+20.3;5;Europe;2830;131;15.9;audi 5000;1/01/1978;103
+17;6;Europe;3140;163;13.6;volvo 264gl;1/01/1978;125
+21.6;4;Europe;2795;121;15.7;saab 99gle;1/01/1978;115
+16.2;6;Europe;3410;163;15.8;peugeot 604sl;1/01/1978;133
+31.5;4;Europe;1990;89;14.9;volkswagen scirocco;1/01/1978;71
+29.5;4;Japan;2135;98;16.6;honda Accelerationord lx;1/01/1978;68
+21.5;6;USA;3245;231;15.4;pontiac lemans v6;1/01/1979;115
+19.8;6;USA;2990;200;18.2;mercury zephyr 6;1/01/1979;85
+22.3;4;USA;2890;140;17.3;ford fairmont 4;1/01/1979;88
+20.2;6;USA;3265;232;18.2;amc concord dl 6;1/01/1979;90
+20.6;6;USA;3360;225;16.6;dodge aspen 6;1/01/1979;110
+17;8;USA;3840;305;15.4;chevrolet caprice classic;1/01/1979;130
+17.6;8;USA;3725;302;13.4;ford ltd landau;1/01/1979;129
+16.5;8;USA;3955;351;13.2;mercury grand marquis;1/01/1979;138
+18.2;8;USA;3830;318;15.2;dodge st. regis;1/01/1979;135
+16.9;8;USA;4360;350;14.9;buick estate wagon (sw);1/01/1979;155
+15.5;8;USA;4054;351;14.3;ford country squire (sw);1/01/1979;142
+19.2;8;USA;3605;267;15;chevrolet malibu classic (sw);1/01/1979;125
+18.5;8;USA;3940;360;13;chrysler lebaron town @ country (sw);1/01/1979;150
+31.9;4;Europe;1925;89;14;vw rabbit custom;1/01/1979;71
+34.1;4;Japan;1975;86;15.2;maxda glc deluxe;1/01/1979;65
+35.7;4;USA;1915;98;14.4;dodge colt hatchback custom;1/01/1979;80
+27.4;4;USA;2670;121;15;amc spirit dl;1/01/1979;80
+25.4;5;Europe;3530;183;20.1;mercedes benz 300d;1/01/1979;77
+23;8;USA;3900;350;17.4;cadillac eldorado;1/01/1979;125
+27.2;4;Europe;3190;141;24.8;peugeot 504;1/01/1979;71
+23.9;8;USA;3420;260;22.2;oldsmobile cutlass salon brougham;1/01/1979;90
+34.2;4;USA;2200;105;13.2;plymouth horizon;1/01/1979;70
+34.5;4;USA;2150;105;14.9;plymouth horizon tc3;1/01/1979;70
+31.8;4;Japan;2020;85;19.2;datsun 210;1/01/1979;65
+37.3;4;Europe;2130;91;14.7;fiat strada custom;1/01/1979;69
+28.4;4;USA;2670;151;16;buick skylark limited;1/01/1979;90
+28.8;6;USA;2595;173;11.3;chevrolet citation;1/01/1979;115
+26.8;6;USA;2700;173;12.9;oldsmobile omega brougham;1/01/1979;115
+33.5;4;USA;2556;151;13.2;pontiac phoenix;1/01/1979;90
+41.5;4;Europe;2144;98;14.7;vw rabbit;1/01/1980;76
+38.1;4;Japan;1968;89;18.8;toyota corolla tercel;1/01/1980;60
+32.1;4;USA;2120;98;15.5;chevrolet chevette;1/01/1980;70
+37.2;4;Japan;2019;86;16.4;datsun 310;1/01/1980;65
+28;4;USA;2678;151;16.5;chevrolet citation;1/01/1980;90
+26.4;4;USA;2870;140;18.1;ford fairmont;1/01/1980;88
+24.3;4;USA;3003;151;20.1;amc concord;1/01/1980;90
+19.1;6;USA;3381;225;18.7;dodge aspen;1/01/1980;90
+34.3;4;Europe;2188;97;15.8;audi 4000;1/01/1980;78
+29.8;4;Japan;2711;134;15.5;toyota corona liftback;1/01/1980;90
+31.3;4;Japan;2542;120;17.5;mazda 626;1/01/1980;75
+37;4;Japan;2434;119;15;datsun 510 hatchback;1/01/1980;92
+32.2;4;Japan;2265;108;15.2;toyota corolla;1/01/1980;75
+46.6;4;Japan;2110;86;17.9;mazda glc;1/01/1980;65
+27.9;4;USA;2800;156;14.4;dodge colt;1/01/1980;105
+40.8;4;Japan;2110;85;19.2;datsun 210;1/01/1980;65
+44.3;4;Europe;2085;90;21.7;vw rabbit c (diesel);1/01/1980;48
+43.4;4;Europe;2335;90;23.7;vw dasher (diesel);1/01/1980;48
+36.4;5;Europe;2950;121;19.9;audi 5000s (diesel);1/01/1980;67
+30;4;Europe;3250;146;21.8;mercedes-benz 240d;1/01/1980;67
+44.6;4;Japan;1850;91;13.8;honda civic 1500 gl;1/01/1980;67
+40.9;4;Europe;1835;85;17.3;renault lecar deluxe;1/01/1980;NA
+33.8;4;Japan;2145;97;18;subaru dl;1/01/1980;67
+29.8;4;Europe;1845;89;15.3;vokswagen rabbit;1/01/1980;62
+32.7;6;Japan;2910;168;11.4;datsun 280-zx;1/01/1980;132
+23.7;3;Japan;2420;70;12.5;mazda rx-7 gs;1/01/1980;100
+35;4;Europe;2500;122;15.1;triumph tr7 coupe;1/01/1980;88
+23.6;4;USA;2905;140;14.3;ford mustang cobra;1/01/1980;NA
+32.4;4;Japan;2290;107;17;honda Accelerationord;1/01/1980;72
+27.2;4;USA;2490;135;15.7;plymouth reliant;1/01/1982;84
+26.6;4;USA;2635;151;16.4;buick skylark;1/01/1982;84
+25.8;4;USA;2620;156;14.4;dodge aries wagon (sw);1/01/1982;92
+23.5;6;USA;2725;173;12.6;chevrolet citation;1/01/1982;110
+30;4;USA;2385;135;12.9;plymouth reliant;1/01/1982;84
+39.1;4;Japan;1755;79;16.9;toyota starlet;1/01/1982;58
+39;4;USA;1875;86;16.4;plymouth champ;1/01/1982;64
+35.1;4;Japan;1760;81;16.1;honda civic 1300;1/01/1982;60
+32.3;4;Japan;2065;97;17.8;subaru;1/01/1982;67
+37;4;Japan;1975;85;19.4;datsun 210;1/01/1982;65
+37.7;4;Japan;2050;89;17.3;toyota tercel;1/01/1982;62
+34.1;4;Japan;1985;91;16;mazda glc 4;1/01/1982;68
+34.7;4;USA;2215;105;14.9;plymouth horizon 4;1/01/1982;63
+34.4;4;USA;2045;98;16.2;ford escort 4w;1/01/1982;65
+29.9;4;USA;2380;98;20.7;ford escort 2h;1/01/1982;65
+33;4;Europe;2190;105;14.2;volkswagen jetta;1/01/1982;74
+34.5;4;Europe;2320;100;15.8;renault 18i;1/01/1982;NA
+33.7;4;Japan;2210;107;14.4;honda prelude;1/01/1982;75
+32.4;4;Japan;2350;108;16.8;toyota corolla;1/01/1982;75
+32.9;4;Japan;2615;119;14.8;datsun 200sx;1/01/1982;100
+31.6;4;Japan;2635;120;18.3;mazda 626;1/01/1982;74
+28.1;4;Europe;3230;141;20.4;peugeot 505s turbo diesel;1/01/1982;80
+NA;4;Europe;2800;121;15.4;saab 900s;1/01/1982;110
+30.7;6;Europe;3160;145;19.6;volvo diesel;1/01/1982;76
+25.4;6;Japan;2900;168;12.6;toyota cressida;1/01/1982;116
+24.2;6;Japan;2930;146;13.8;datsun 810 maxima;1/01/1982;120
+22.4;6;USA;3415;231;15.8;buick century;1/01/1982;110
+26.6;8;USA;3725;350;19;oldsmobile cutlass ls;1/01/1982;105
+20.2;6;USA;3060;200;17.1;ford granada gl;1/01/1982;88
+17.6;6;USA;3465;225;16.6;chrysler lebaron salon;1/01/1982;85
+28;4;USA;2605;112;19.6;chevrolet cavalier;1/01/1982;88
+27;4;USA;2640;112;18.6;chevrolet cavalier wagon;1/01/1982;88
+34;4;USA;2395;112;18;chevrolet cavalier 2-door;1/01/1982;88
+31;4;USA;2575;112;16.2;pontiac j2000 se hatchback;1/01/1982;85
+29;4;USA;2525;135;16;dodge aries se;1/01/1982;84
+27;4;USA;2735;151;18;pontiac phoenix;1/01/1982;90
+24;4;USA;2865;140;16.4;ford fairmont futura;1/01/1982;92
+23;4;USA;3035;151;20.5;amc concord dl;1/01/1982;NA
+36;4;Europe;1980;105;15.3;volkswagen rabbit l;1/01/1982;74
+37;4;Japan;2025;91;18.2;mazda glc custom l;1/01/1982;68
+31;4;Japan;1970;91;17.6;mazda glc custom;1/01/1982;68
+38;4;USA;2125;105;14.7;plymouth horizon miser;1/01/1982;63
+36;4;USA;2125;98;17.3;mercury lynx l;1/01/1982;70
+36;4;Japan;2160;120;14.5;nissan stanza xe;1/01/1982;88
+36;4;Japan;2205;107;14.5;honda Accelerationord;1/01/1982;75
+34;4;Japan;2245;108;16.9;toyota corolla;1/01/1982;70
+38;4;Japan;1965;91;15;honda civic;1/01/1982;67
+32;4;Japan;1965;91;15.7;honda civic (auto);1/01/1982;67
+38;4;Japan;1995;91;16.2;datsun 310 gx;1/01/1982;67
+25;6;USA;2945;181;16.4;buick century limited;1/01/1982;110
+38;6;USA;3015;262;17;oldsmobile cutlass ciera (diesel);1/01/1982;85
+26;4;USA;2585;156;14.5;chrysler lebaron medallion;1/01/1982;92
+22;6;USA;2835;232;14.7;ford granada l;1/01/1982;112
+32;4;Japan;2665;144;13.9;toyota celica gt;1/01/1982;96
+36;4;USA;2370;135;13;dodge charger 2.2;1/01/1982;84
+27;4;USA;2950;151;17.3;chevrolet camaro;1/01/1982;90
+27;4;USA;2790;140;15.6;ford mustang gl;1/01/1982;86
+44;4;Europe;2130;97;24.6;vw pickup;1/01/1982;52
+32;4;USA;2295;135;11.6;dodge rampage;1/01/1982;84
+28;4;USA;2625;120;18.6;ford ranger;1/01/1982;79
+31;4;USA;2720;119;19.4;chevy s-10;1/01/1982;82

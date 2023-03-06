@@ -6,7 +6,7 @@
 
 Instructora: Msc (e) Ing. Est. E Inf. Yaneth Ccahuantico Mendoza
 
-> Viernes 10 de marzo del 2023
+> Entrega: Viernes 10 de marzo del 2023
 
 ### Entregable
 
