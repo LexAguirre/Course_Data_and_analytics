@@ -54,4 +54,4 @@ Con el siguiente fichero datos_seguros.csv contiene información de riesgo de cl
 
 <a href="https://colab.research.google.com/drive/1ixScEfF2pZrFfjIPjbGSpZTpBr3zqstc?usp=sharing">Proyecto 1 google colab</a>
 
-<a href="">Explicación del proyecto 1</a>
+<a href="https://youtu.be/mG-g0nlr96o">Explicación del proyecto 1</a>
