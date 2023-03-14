@@ -6,7 +6,7 @@
 
 ---
 
-Iniciamos
+Iniciamos \n
 Keywords
 Identificadores
 Comentarios en python
