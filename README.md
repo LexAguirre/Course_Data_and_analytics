@@ -1,6 +1,6 @@
 ![Header](Img/pyds.png)
 
-**_# Indice_**
+# **_ Indice_**
 
 ## 01&02-Intro_listas_estructuras
 
