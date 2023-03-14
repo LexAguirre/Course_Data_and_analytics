@@ -6,17 +6,14 @@
 
 ---
 
-Iniciamos \n
-Keywords
-Identificadores
-Comentarios en python
-
-- Numéricos
-- Boolean
-- String
-
-Listas
-Tuplas
-
-- Creación de tuplas
+- Iniciamos
+- Keywords
+- Identificadores
+- Comentarios en python
+  - Numéricos
+  - Boolean
+  - String
+- Listas
+- Tuplas
+  - Creación de tuplas
   - Imutabilidad
