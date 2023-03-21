@@ -61,6 +61,6 @@ Crear una función que devuelva un mapa de calor con la correlación de todas la
 
 ### Recursos
 
-<a href="https://colab.research.google.com/drive/1ijKcWTk57wQmucf8IW9dpIvQksO6fIAN?usp=sharing">Proyecto 1 google colab</a>
+<a href="https://colab.research.google.com/drive/1ijKcWTk57wQmucf8IW9dpIvQksO6fIAN?usp=sharing">Proyecto 2 google colab</a>
 
-<a href="https://youtu.be/2S9CbKRftC0">Explicación del proyecto 1</a>
+<a href="https://youtu.be/2S9CbKRftC0">Explicación del proyecto 2</a>
