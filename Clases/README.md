@@ -1,8 +1,8 @@
 ![Header](../Img/pyds.png)
 
-# **_Indice_**
-
 ---
+
+# **_Indice_**
 
 ## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/01%2602-Intro_listas_estructuras.ipynb">01&02-Intro_listas_estructuras</a>
 
@@ -182,3 +182,14 @@
   - Gráficos curvas
   - Gráficos de burbujas
     - Gráficos de burbujas con Pyplot
+
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/07-Visualización.ipynb">07-Visualización</a>
+
+- DataFrame
+  - Data: Cargar data desde la web
+  - Data: Cargar data desde la PC
+- Instalar librerias en python
+
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/07-Visualización.ipynb">07-Visualización</a>
+
+- Data
