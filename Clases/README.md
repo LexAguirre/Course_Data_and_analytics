@@ -145,4 +145,40 @@
 ## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/06-Funciones.ipynb">06-Funciones</a>
 
 - Funciones
-  -
+  - Sentencia "def"
+  - Argumemtos y parametros
+    - Por posición
+    - Por nombre
+    - Llamada sin argumento
+    - Parámetros con valores por defecto
+  - Argumentos indeterminados
+    - Por posición
+    - Por nombre
+    - Por posición y nombre
+  - Sentencia Pass
+  - Sentencia return
+    - Retorno múltiple
+- Casos aplicados con dataframe
+  - Función grafico_numerico
+  - Función suma con columnas del dataframe
+  - Función grafico_doble_entrada
+- Optimizando nuestras condicionales
+
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/07-Visualización.ipynb">07-Visualización</a>
+
+- Visualización de Datos
+- Creando nuevas variables
+- Gráficos con matplotlib y seaborn
+  - Diagrama de líneas
+  - Diagrama de barras
+  - Gráfico de barras
+  - Histogramas
+    - Otros histogramas y curvas
+  - Box plot
+  - Pie plot
+  - De puntos y correlación
+- Sección nueva
+  - Gráficos de correlación
+  - Gráficos curvas
+  - Gráficos de burbujas
+    - Gráficos de burbujas con Pyplot
