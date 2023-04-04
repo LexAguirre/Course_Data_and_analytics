@@ -133,4 +133,16 @@
 
 ## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/05-Condicionales.ipynb">05-Condicionales</a>
 
-- Pandas
+- Condicionales "If - Else"
+  - Expresiones
+  - Sentencias "If..."
+  - Sentencias "If... Else..."
+    - Sentencias condicionales anidadas
+  - Sentencias "If... Elif... Else..."
+  - Operando "Is"
+  - Operador "In"
+
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/06-Funciones.ipynb">06-Funciones</a>
+
+- Funciones
+  -
