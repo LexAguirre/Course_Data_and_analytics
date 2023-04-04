@@ -183,13 +183,34 @@
   - Gráficos de burbujas
     - Gráficos de burbujas con Pyplot
 
-## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/07-Visualización.ipynb">07-Visualización</a>
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/08-Repaso_pandas.ipynb">08-Repaso_pandas</a>
 
 - DataFrame
   - Data: Cargar data desde la web
   - Data: Cargar data desde la PC
 - Instalar librerias en python
 
-## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/07-Visualización.ipynb">07-Visualización</a>
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/09-Estadística_Descriptiva.ipynb">09-Estadística_Descriptiva</a>
 
-- Data
+- Exploramos la data
+  A. Medidas de tendencia central
+  - Media, promedio, media aritmética
+  - Mediana
+  - Moda
+  - Centro de amplitud
+  - Media armónica
+  - Media recortada
+  - Trimedia
+  - Varias medidas de tendencia central y gráficos
+    B. Medidas de dispersión
+  - Rango
+  - Cuartiles
+  - Rango intercuartil
+  - Varianza
+  - Desviación estándar
+  - Coeficiente de variación
+  - Cuantiles
+  - Curtosis
+    C. Correlaciones "R de pearson" & "RHO de spearman"
+  - Correlación: r de pearson
+  - Correlacion: Rho de Spearman
