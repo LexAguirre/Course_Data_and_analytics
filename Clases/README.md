@@ -97,3 +97,40 @@
   - Seleccionando filas sin nulos
   - Seleccionando columnas sin nulos
 - Estadisticas
+
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/04-Pandas.ipynb">04-Pandas</a>
+
+- Pandas
+  - Series
+  - Atributos del dataframe
+  - Viendo la data
+  - Convertir en un array
+  - Summary
+- Ordenado
+  - Ordenado con datos perdidos
+  - Ordenado por varias columnas
+  - Ordenado en base al index
+  - Obteniendo filas, columnas...
+    - Filas
+    - Columnas
+    - Selección por index
+    - Según valores en las columnas "variables"
+    - Método "isin" para filtrar
+- Datos perdidos
+- Operaciones
+  - Cálculos estadísticos
+  - Apply
+- Agrupación "Group by"
+- Unir dataframe
+  - Tipo: Outer
+  - Tipo: Inner
+  - Tipo: Left
+  - Tipo: Right
+- Pivot
+- Unpivot
+- Datos duplicados
+- Cargar datos de archivos
+
+## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Clases/05-Condicionales.ipynb">05-Condicionales</a>
+
+- Pandas
