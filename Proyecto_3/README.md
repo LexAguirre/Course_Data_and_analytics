@@ -23,8 +23,8 @@ Aplicar Estadística Inferencial - Trabajar hasta con 5 variables (seleccionar l
 
 ### Recursos
 
-<a href="https://colab.research.google.com/drive/1kMzxHEelTXTUF6yTu8X-Vvelma_HLh80?usp=sharing">Proyecto 3 Estadística Descriptiva>
+<a href="https://colab.research.google.com/drive/1kMzxHEelTXTUF6yTu8X-Vvelma_HLh80?usp=sharing">Proyecto 3 Estadística Descriptiva
 
-<a href="https://colab.research.google.com/drive/1N7piz5j-4GirwEXxovlnsIF3CVPw0ip2?usp=sharing">Proyecto 3 Inferencia Estadística>
+<a href="https://colab.research.google.com/drive/1N7piz5j-4GirwEXxovlnsIF3CVPw0ip2?usp=sharing">Proyecto 3 Inferencia Estadística
 
 <a href="https://youtu.be/lBYur_2pMNQ">Explicación del proyecto 3</a>
