@@ -55,13 +55,13 @@ Construir un modelo de Machine Learning a partir de los datos de calificación (
 
 _a._ Realizar las manipulaciones y tratamiento de los datos de manera que queden listos para la modelación.
 
-    - _Nota:_ Tome en cuenta los valores perdidos y los valores outliers, o alguna transformación de las variables en caso de ser necesario.
+    - Nota: Tome en cuenta los valores perdidos y los valores outliers, o alguna transformación de las variables en caso de ser necesario.
 
 _b._ Hacer un análisis exploratorio de datos (EDA).
 _c._ Defina si usará modelos de _Regresión_ o _Clasificación_ en base a la información suministrada u otra información de la red que le ayude a determinar qué tipo de aprendizaje supervisado vaya a realizar. Dé una breve explicación.
 _d._ Realizar escenarios de modelos.
 
-    - _Nota:_ tome en cuenta los siguientes modelos, el orden no es determinístico. Use como mínimo 5 modelos:
+    - Nota: tome en cuenta los siguientes modelos, el orden no es determinístico. Use como mínimo 5 modelos:
 
 - XGBoost
 - Random Forest
@@ -79,7 +79,7 @@ _e._ Con los modelos que ha seleccionado construya modelos de _Regresión_ o
 _Clasificación_ en base a la información suministrada.
 _f._ Evalué sus modelos según el tipo de modelo que usted haya elegido.
 
-    - *Nota:* Calcule las métricas necesarias dependiendo del tipo de modelo que haya elegido.
+    - Nota: Calcule las métricas necesarias dependiendo del tipo de modelo que haya elegido.
 
 _g._ Con el mejor modelo que haya salido de la evaluación aplique una modelación de hiper parámetro, luego vuelva a calcular nuevas métricas y compare los cambios con respecto a las métricas de evaluación del paso _f_.
 _h._ Realice un análisis PCA para reducir el número de dimensiones del conjunto de datos. Luego vuelva a modelar un sistema (el que eligió en el punto _f_) y calcule nuevas métricas. Compare con las anteriores métricas.
