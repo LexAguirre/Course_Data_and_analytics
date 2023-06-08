@@ -2,6 +2,8 @@
 
 # PROGRAMA ESPECIALIZADO CIENCIA DE DATOS CON PYTHON
 
+> _Parte 1:_ PYTHON PARA CIENCIA DE DATOS
+
 ## Proyecto 1:
 
 Instructora: Msc (e) Ing. Est. E Inf. Yaneth Ccahuantico Mendoza

@@ -25,5 +25,3 @@
 ### Proyectos
 
 - #### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/tree/main/Proyecto_5">Proyecto 5</a>
-
-- #### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/tree/main/Proyecto_6">Proyecto 6</a>

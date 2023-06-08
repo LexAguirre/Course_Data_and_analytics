@@ -2,29 +2,38 @@
 
 # PROGRAMA ESPECIALIZADO CIENCIA DE DATOS CON PYTHON
 
-## Proyecto 3:
+> _Parte 2:_ ESTADÍSTICA PARA CIENCIA DE DATOS CON PYTHON
 
-Instructora: Msc (e) Ing. Est. E Inf. Yaneth Ccahuantico Mendoza
+## Proyecto 4:
 
-> Entrega: Viernes 05 de mayo del 2023
+Instructor: Msc (e) Ing. Est. E Inf. Yaneth Ccahuantico Mendoza
+
+> Entrega: Sabado 20 de mayo del 2023
 
 ### Entregable
 
-- Generar un informe en Python Notebook, debidamente explicado, paso a paso; subir a GitHub o un repositorio similar (opcional; de subir, enviar el link).
-- Subir un video en Youtube sobre la solución de los casos; linkeando su documentación.
+- Se tiene un conjunto de datos simulado basado en seis meses de la información recogida por una aseguradora mundial llamada “SALUD Y SEGUROS”, cuyo objetivo fue desarrollar un modelo para determinar la probabilidad de siniestro en los próximos 12 meses.
+- La variable de interés es la siniestralidad , que representa el estado binario de No Siniestro 0 y Siniestro 1.
 
-#### 1er notebook:
+#### Descripción del problema:
 
-Análisis Exploratorio de datos (EDA) - Estadística Descriptiva; Incluir la generación de nuevas variables de valor.
+Los modelos analíticos para el manejo de los seguros de accidentes se están usando por muchas instituciones y están dando resultados exitosos en todo el mundo. Los modelos analíticos se pueden definir como un conjunto de métodos y técnicas cuantitativas usados para predecir la probabilidad de que un cliente falle (sea siniestros) y en consecuencia no se recupere el crédito otorgado por la empresa.
 
-#### 2do notebook:
+#### Descripción de las variables
 
-Aplicar Estadística Inferencial - Trabajar hasta con 5 variables (seleccionar las variables a preferencia).
+![Variables](../Img/variables.png)
+
+#### Desarrollar el modelo basado en la metodología CRISP-DM.
+
+- Realizar el análisis exploratorio de datos (EDA) con la variable dependiente (Target) e interpretar los hallazgos.
+- Identificar las variables más importantes
+- 1. Realizar análisis exploratorio de datos
+- 2. Realizar la segmentación de clientes (creando la variable cualitativa de segmentación).
+- 3. Desarrollar 1 modelo incluyendo la variable de segmentación como variable cualitativa o desarrollar 1 modelo dentro de cada segmento.
+- Interpretaciòn, conclusiones y recomendaciones
 
 ### Recursos
 
-<a href="https://colab.research.google.com/drive/1kMzxHEelTXTUF6yTu8X-Vvelma_HLh80?usp=sharing">Proyecto 3 Estadística Descriptiva
+<a href="">Proyecto 4 Estadística Descriptiva
 
-<a href="https://colab.research.google.com/drive/1N7piz5j-4GirwEXxovlnsIF3CVPw0ip2?usp=sharing">Proyecto 3 Inferencia Estadística
-
-<a href="https://youtu.be/lBYur_2pMNQ">Explicación del proyecto 3</a>
+<a href="">Explicación del proyecto 4</a>

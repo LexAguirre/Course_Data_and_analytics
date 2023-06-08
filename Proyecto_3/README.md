@@ -2,6 +2,8 @@
 
 # PROGRAMA ESPECIALIZADO CIENCIA DE DATOS CON PYTHON
 
+> _Parte 2:_ ESTADÍSTICA PARA CIENCIA DE DATOS CON PYTHON
+
 ## Proyecto 3:
 
 Instructora: Msc (e) Ing. Est. E Inf. Yaneth Ccahuantico Mendoza
