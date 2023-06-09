@@ -246,21 +246,160 @@
     - Curva Roc
   - RESULTADO
 
-  ### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/07-Imputación_de_datos.ipynb">07-Imputación_de_datos</a>
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/07-Imputación_de_datos.ipynb">07-Imputación_de_datos</a>
 
 - Imputación de datos usando Random Fotest
 
   - Conjunto de datos a trabajar: Brewer's Friend Beer Recipes
     - Técnicas de Imputación con Modelos de Machine Learning
 
-  ### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/08-RandomForest_Selección_de_Variables.ipynb">08-RandomForest_Selección_de_Variables</a>
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/08-RandomForest_Selección_de_Variables.ipynb">08-RandomForest_Selección_de_Variables</a>
 
 - Selección de Variables usando Randon Forest
 
-- Univariate
-  - Univariate
-  - Univariate
-  - Univariate
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/09-Supervised_Learning_Classification_RNA.ipynb">09-Supervised_Learning_Classification_RNA</a>
+
+- Redes neuronales aplicado a datos bancarios
+  - Implementando la Red Neuronal Artificial
+    - Empecemos!
+    - A predecir!
+    - Calculamos la matriz de confusion
+
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/10-Deep_Learning_Keras.ipynb">10-Deep_Learning_Keras</a>
+
+- Descripción del dataset
+- Importar clases y datasets
+- Cargando el Dataset
+- Pre-procesamiento inicial de los datos
+- Codificar la variable de salida
+- Definir la red neuronal
+- Redes
+  - Modelo de línea base
+  - Modelo medium
+  - Modelo large
+- Evaluar el modelo
+  - Validación cruzada
+  - Validación cruzada con estandarización
+- Checkpoint y forecasting
+  - Punto de control en el modelo
+  - Cargar modelo con pesos del fichero
+- Análisis de entrenamiento
+  - Las métricas de Accuracy y Loss
+- Regularación de la red con Dropout
+
+  - Modificar el Gradiente Descendiente Estocástico (SGD)
+  - Dropout en la capa de entrada
+  - Dropout en las capas ocultas
+
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/11-Hyperparameter_for_Classification_Methods.ipynb">11-Hyperparameter_for_Classification_Methods</a>
+
+- CASO: Spotify - Clasificación de popularidad
+  - INTRODUCCIÓN
+- OBJETIVO E INTERESES DEL PROYECTO:
+- Importando librerias
+- Descripción de los Datos y Limpieza
+  - Resumen del conjunto de datos sin procesar:
+  - Limpieza de datos
+  - Columna de consolidación de género
+  - Análisis:
+- ANÁLISIS EXPLORATORIO Y VISUALIZACIONES
+  - ¿Géneros y artistas más populares de 1950 a 2000?
+    - Conclusión:
+  - ¿Hay una tendencia/cambio en los géneros preferidos antes de la década de 2000 frente a los actuales a lo largo de los años?
+  - Visuales de gráfico circular de bloques de año que muestran tendencia/cambio en géneros entre (1956 - 2019)
+    - Conclusión: análisis de gráfico circular:
+  - Recuento de popularidad del género a lo largo de los años
+  - ¿Qué otras características tienen un impacto en la popularidad de una canción?
+    - Nota:
+    - Ahora para reemplazar nuestra columna de género original con la versión actualizada
+    - Como puede ver, se han eliminado los géneros con aquellos que tienen una instancia inferior a 20
+    - Conclusión:
+- DATOS DE MODELADO
+  - Modelo (Clasificación de popularidad)
+    - Paso 1: Una codificación One hot-encode de género y artista:
+      - Clasifique la función de destino: 'popularidad' en contenedores 2x, para ayudar a clasificar mejor nuestros datos para nuestro modelo predictivo
+    - Análisis
+    - Step 2: Splitting & Scaling Data
+  - Modeling & Training
+  - Salidas de Accuracy del modelo de entrenamiento:
+    - Análisis:
+  - Validating models with k-fold cross validation:
+    - Análisis:
+  - Conclusión
+
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/12-K_Means_Clustering.ipynb">12-K_Means_Clustering</a>
+
+- Introducción
+- Cargando las Libraria
+- Load Dataset
+- Análisis Exploratorio de datos
+  - Distribución
+  - Correlación
+- K-Means
+  - Implementación de K-means
+- Método del codo
+- Coeficiente y visualización silhouette
+- Mini Batch K-Means
+- Método del codo
+- Agregando clustering al Dataset
+- Visualización de los Clustering
+- Coeficiente y visualización silhouette
+  - Ventajas y Desventajas
+
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/13-Association_Rule_Learning.ipynb">13-Association_Rule_Learning</a>
+
+- ¿Reglas de asociación? Qué es eso!
+- MBA (Market Basket Analysis):
+  - Introduction:
+  - Análisis Exploratorio de Datos (EDA):
+  - Ventas a lo largo del tiempo:
+    - Análisis de los mejores productos: café, té, pasteles, tostadas
+  - Market Basket Analysis:
+  - Un Antecedente
+  - Más de un antecedente
+  - 5 Conclusión
+
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/14-DBSCAN_Affinity_Propagation.ipynb">14-DBSCAN_Affinity_Propagation</a>
+
+- Introduction
+- Leer datos
+- Análisis Exploratorio de datos
+  - Distribución
+  - Correlación
+- Clustering
+  - DBSCAN
+  - Descripción
+  - Implemetación DBSCAN - customers segmentation
+- Affinity Propagation
+  - Description
+  - Algoritmo
+  - Use case - customers segmentation
+- Comparison and discussion
+
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/15-PCA.ipynb">15-PCA</a>
+
+- CASO: PREDICCIÓN DE LA CALIDAD DEL VINO TINTO
+
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_3-Machine_learning/16-Series de Tiempo.ipynb">16-Series de Tiempo</a>
+
+- Contenido
+- Introducción
+  - ¿Qué es una Serie de Tiempo?
+  - Características de la serie de tiempo
+- Evaluación de Modelos
+  - Métricas evaluar modelo
+    - Métrica 1: MSE
+    - Métrica 2: RMSE
+    - Métrica 3: MAE
+    - Métrica 4: MAPE
+    - Métrica 5: R2
+- Método de Suavizamiento (smoothing)
+  - Media móvil simple
+  - Suavizado exponencial simple
+  - Doble Suavizamiento exponencial
+- Modelo Arima
+  - Cómo encontrar el orden de diferenciación (d) en el modelo ARIMA
+  - Cómo encontrar el orden del término AR (p)
 
 ### Proyectos
 
