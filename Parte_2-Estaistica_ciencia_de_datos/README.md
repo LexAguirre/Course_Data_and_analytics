@@ -6,7 +6,7 @@
 
 ## **_Indice_**
 
-### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_1-Ciencia_de_datos/01-Repaso_pandas.ipynb">01-Repaso_pandas</a>
+### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_2-Estaistica_ciencia_de_datos/01-Repaso_pandas.ipynb">01-Repaso_pandas</a>
 
 - DataFrame
   - Data: Cargar data desde la web
