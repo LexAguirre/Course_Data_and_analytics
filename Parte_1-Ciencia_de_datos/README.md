@@ -185,13 +185,6 @@
   - Gráficos de burbujas
     - Gráficos de burbujas con Pyplot
 
-### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Parte_1-Ciencia_de_datos/08-Repaso_pandas.ipynb">08-Repaso_pandas</a>
-
-- DataFrame
-  - Data: Cargar data desde la web
-  - Data: Cargar data desde la PC
-- Instalar librerias en python
-
 ### Proyectos
 
 - #### <a href="https://github.com/LexAguirre/Course_Data_and_analytics/tree/main/Proyecto_1">Proyecto 1</a>
