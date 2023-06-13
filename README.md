@@ -2,6 +2,8 @@
 
 # PROGRAMA CIENCIA DE DATOS Y MACHINE LEARNING CON PYTHON
 
+> Desde el 2 de Febrero del 2023 al 23 de Junio del 2023
+
 > <a href="https://github.com/LexAguirre/Course_Data_and_analytics/tree/main/Recursos">Recursos utilizados</a>
 
 ## <a href="https://github.com/LexAguirre/Course_Data_and_analytics/tree/main/Parte_1-Ciencia_de_datos">_Parte 1:_ PYTHON PARA CIENCIA DE DATOS</a>
