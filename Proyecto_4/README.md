@@ -36,4 +36,4 @@ Los modelos analíticos para el manejo de los seguros de accidentes se están us
 
 <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Proyecto_4/Proyecto_4.ipynb">Proyecto 4 Análisis Exploratorio de datos
 
-<a href="">Explicación del proyecto 4</a>
+<a href="https://youtu.be/8LizN5jgvu4">Explicación del proyecto 4</a>
