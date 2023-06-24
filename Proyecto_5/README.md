@@ -94,4 +94,4 @@ _h._ Realice un análisis PCA para reducir el número de dimensiones del conjunt
 
 <a href="https://github.com/LexAguirre/Course_Data_and_analytics/blob/main/Proyecto_5/Proyecto_5.ipynb">Proyecto 5
 
-<a href="">Explicación del proyecto 5</a>
+<a href="https://youtu.be/5J1erJ2-kZc">Explicación del proyecto 5</a>
